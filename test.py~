@@ -1,0 +1,6 @@
+def adder(x, y):
+    y = z + r
+    return x + y
+
+z = 7
+adder(5, 6)
