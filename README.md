@@ -33,6 +33,15 @@ Some homework assignments are from hackerRank.  There are a few reasons for this
 	* introduction to import statements
 	* introduction to the os module
 
+## Grading
+
+75% for homework
+25% for tests
+
+There will be two tests - one at the 3 week mark and another at the 6 week mark.
+
+two assignments per week <-> 12 assignments
+
 Homework:
 
 ## Assignment for class 1:
