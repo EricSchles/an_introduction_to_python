@@ -65,7 +65,7 @@ But if you are restricted from doing so, PythonAnywhere works.
 
 1. Write a Python program called create_file.py 
 
-The program should create a file called practing_file_writing.txt.  The file should contain the following text:
+The program should create a file called practicing_file_writing.txt.  The file should contain the following text:
 
 Hello!  You've successfully created this file with a program!  Congradulations!!!!
 
