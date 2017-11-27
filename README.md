@@ -6,7 +6,7 @@ This three week class will prepare you to read and write basic python scripts.  
 
 # Help with the homework?
 
-Email `eric.schles@gsa.gov`
+Email `es3066@nyu.edu`
 
 # Administrivia
 
