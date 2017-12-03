@@ -165,3 +165,16 @@ Note you should write functions for each of these sub commands.  Here's what a t
 This file has 10 lines
 The five most common words used are: print, if, else, import, and
 This file is written in Python
+
+Week 4
+
+## Assignment for class 7:
+
+1. Take the floor of the following number: 3.4
+2. Take the ceiling of the following number: 3.4
+3. Explain the difference of the floor and ceiling function.  Can you think of a situation where you would use one or the other?  Are they interchangable?
+
+4. Take the gcd of the numbers 4, 7 and 11.
+5. Find ![Sum Product](sum_product.JPG "Sum Product")
+6. Find ![exponent](exponents.JPG "Exponents")
+7. Find ![quotient formula](quotient_formula.JPG "Quotient Formula")
