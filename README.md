@@ -175,7 +175,9 @@ Week 4
 3. Explain the difference of the floor and ceiling function.  Can you think of a situation where you would use one or the other?  Are they interchangable?
 
 4. Take the gcd of the numbers 4, 7 and 11.
+
 Convert the following mathematical expressions into Python code and evaluate:
+
 5. ![Sum Product](sum_product.JPG "Sum Product")
 6. ![exponent](exponents.JPG "Exponents")
 7. ![quotient formula](quotient_formula.JPG "Quotient Formula")
